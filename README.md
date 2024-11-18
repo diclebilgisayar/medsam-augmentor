@@ -32,7 +32,7 @@ MEDSAMAugmentor is a comprehensive framework that implements intelligent data au
 
 ```bash
 # Clone the repository
-git clone https://github.com/hakmesyo/medsam-augmentor.git
+git clone https://github.com/diclebilgisayar/medsam-augmentor.gits
 cd medsam-augmentor
 
 # Install dependencies
@@ -132,7 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions and feedback:
-- 📧 Email: [contact@email.com](mailto:isaatas21@email.com)
+- 📧 Email: [isaatas21@email.com](mailto:isaatas21@email.com)
 - 🌟 Issues: [GitHub Issues](https://github.com/diclebilgisayar/medsam-augmentor/issues)
 
 ---
