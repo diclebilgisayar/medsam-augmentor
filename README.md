@@ -132,8 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions and feedback:
-- 📧 Email: [contact@email.com](mailto:contact@email.com)
-- 🌟 Issues: [GitHub Issues](https://github.com/hakmesyo/medsam-augmentor/issues)
+- 📧 Email: [contact@email.com](mailto:isaatas21@email.com)
+- 🌟 Issues: [GitHub Issues](https://github.com/diclebilgisayar/medsam-augmentor/issues)
 
 ---
 <p align="center">
