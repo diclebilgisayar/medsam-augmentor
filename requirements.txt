@@ -1,0 +1,23 @@
+# Temel gereksinimler
+numpy>=1.19.2
+opencv-python>=4.5.0
+pydicom>=2.1.2
+pyyaml>=5.4.1
+
+# PyTorch ve CUDA (sistem uyumluluğuna göre)
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch>=1.9.0
+torchvision>=0.10.0
+
+# SAM gereksinimleri
+#git+https://github.com/facebookresearch/segment-anything.git
+segment-anything>=1.0
+
+# Görüntü işleme
+scipy>=1.7.0
+pillow>=8.0.0
+matplotlib>=3.3.0
+
+# Opsiyonel: CUDA toolkit gereksinimleri
+# Not: CUDA toolkit sistem üzerinde ayrıca kurulu olmalıdır
+

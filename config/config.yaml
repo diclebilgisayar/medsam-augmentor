@@ -1,0 +1,21 @@
+# SAM Model Configuration
+lesion_extraction:
+  sam_checkpoint: "auto"  # Otomatik olarak ~/.medsam_augmentor/models altından bulacak
+  model_type: "vit_h"
+  device: "auto"
+  bbox_expansion: 50 
+  
+# Anatomical Placement Configuration
+anatomical_placement:
+  min_distance: 50
+  border_margin: 30
+
+# Gradient Blending Configuration
+gradient_blending:
+  blend_radius: 30
+  alpha_max: 0.9
+
+# General Configuration
+preprocessing:
+  clahe_clip_limit: 2.0
+  clahe_grid_size: [8, 8]
