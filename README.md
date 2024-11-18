@@ -132,7 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions and feedback:
-- 📧 Email: [isaatas21@email.com](mailto:isaatas21@email.com)
+- 📧 Email: [isaatas21@gmail.com](mailto:isaatas21@gmail.com)
 - 🌟 Issues: [GitHub Issues](https://github.com/diclebilgisayar/medsam-augmentor/issues)
 
 ---
