@@ -78,7 +78,7 @@ For detailed documentation, please visit our [Documentation Page](docs/README.md
 ### Example Usage
 
 <p align="center">
-  <img src="example.png" alt="Example Result" width="800"/>
+  <img src="example.png" alt="Example Result" width="300"/>
 </p>
 
 The above figure demonstrates various augmentation results, showcasing the framework's capability to:
