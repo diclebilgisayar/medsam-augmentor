@@ -8,7 +8,7 @@
 A Python Framework for Intelligent Mammographic Data Augmentation using Segment Anything Model (SAM)
 
 <p align="center">
-  <img src="assets/framework_overview.png" alt="MEDSAMAugmentor Framework Overview" width="800"/>
+  <img src="framework_overview.png" alt="MEDSAMAugmentor Framework Overview" width="800"/>
 </p>
 
 ## Overview
