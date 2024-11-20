@@ -113,7 +113,7 @@ If you use MEDSAMAugmentor in your research, please cite our paper:
 ```bibtex
 @article{medsam2024,
   title={MEDSAMAugmentor: A Python Framework for Intelligent Mammographic Data Augmentation using Segment Anything Model},
-  author={Author1 and Author2},
+  author={Ataş, İsa},
   journal={Software Impacts},
   year={2024}
 }
